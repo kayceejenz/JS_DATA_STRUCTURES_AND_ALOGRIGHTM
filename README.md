@@ -1,1 +1,1 @@
-# JS_DATA_STRUCTURES_AND_ALOGRIGHTM
+This project is created for learning of javascript data structures and alogrithms for best code performance.
