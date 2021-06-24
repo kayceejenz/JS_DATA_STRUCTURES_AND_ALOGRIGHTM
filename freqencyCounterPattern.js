@@ -7,6 +7,12 @@
 // Steps
 // Create a function that accepts two strings
 function checkAnagram(str1, str2){
+
+    // Check if the length of the two array is the samey
+    if(str1.length !== str2.length){
+        return false;
+    }
+
 // create two object frequencies
     let strFrequency1 = {};
     let strFrequency2 = {};
